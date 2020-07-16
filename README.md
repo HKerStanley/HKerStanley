@@ -9,4 +9,5 @@ A **HongKonger** currently working in a mobile game company<br />
 
 :thought_balloon: Future Plans: Product Management & Relocation to UK
 
-:eyes: **Open To New Opportunities** 
+:eyes: **Open To New Opportunities** <br />
+:email: Email: stanleychiu@pm.me
