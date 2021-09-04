@@ -7,7 +7,7 @@ A **HongKonger** currently working in a mobile game company<br />
 
 :book: Recent learning: Web Dev with VueJS & Data Analysis
 
-:thought_balloon: Future Plans: Product Management & Relocation to UK
+:thought_balloon: Future Plans: Relocation to Canada
 
 :eyes: **Open To New Opportunities** <br />
 :email: Email: stanleychiu@pm.me
