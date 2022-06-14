@@ -1,6 +1,6 @@
 ## Hello World! 👋 :smile:
 
-A **HongKonger** relocating to Canada
+A **HongKonger** in **Canada**
 
 :yellow_heart: Things I love: :basketball: :video_game: :cookie: :snake: :earth_asia:
 
